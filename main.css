@@ -1,0 +1,99 @@
+div {
+    display: block;
+}
+body{
+	background: url(https://vignette.wikia.nocookie.net/ben10/images/5/50/Wiki-background/revision/latest/scale-to-width-down/640?cb=20190607134509);
+	 background-repeat: no-repeat;
+	  background-size: 102% 105%;
+}
+.Nemesis{
+	margin-left: 10px;
+    width: 120px;
+}
+.Power{
+	width: 200px;
+}
+.Vilgax{
+	width: 150px;
+}
+.box{
+	background-color: rgba(211,211,211, .6);
+    border: solid;
+
+    width: 300px;
+    display:flex;
+     width: 600px;
+    margin: auto;
+     position: relative;
+     height: 260px;
+     padding:1em;
+     justify-content:space-around;
+      align-items:center;
+      margin-top: 15px;
+     
+
+}
+
+}
+.Pantall{
+	  display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.h1 {
+    background-color: black;
+    color: white;
+    font-size: 80px;
+    margin: 0 auto;
+    margin-top: 15px;
+    opacity: 0.7;
+    text-align: center;
+    width: 800px;
+    font-family: 'Roboto Slab', serif;
+font-family: 'Notable', sans-serif;
+
+
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p{
+font-family: 'Roboto Slab', serif;
+font-size:  auto;
+padding: 10px;
+
+  text-align: justify;
+
+}
+button {
+   text-decoration-color: black;
+   border: none;
+    border-radius: 15px;
+    color: black;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 24px;
+    padding: 15px 25px;
+    margin-left: 300px;
+    outline: none;
+    text-align: center;
+}
+.p1 {
+    font-family: 'Cantarell', sans-serif;
+    color: black;
+      padding-left: 1px;
+      margin-top: 30%;
+ 
+}
+
+
+
+
+
